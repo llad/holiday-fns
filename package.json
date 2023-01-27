@@ -1,0 +1,25 @@
+{
+  "name": "holiday-fns",
+  "version": "1.0.0",
+  "description": "holiday date functions missing from date-fns package",
+  "homepage": "https://github.com/llad/holiday-fns",
+  "main": "index.js",
+  "scripts": {
+    "test": "bun wiptest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/llad/holiday-fns.git"
+  },
+  "keywords": [
+    "holiday",
+    "date",
+    "date-fns"
+  ],
+  "author": "Mark Woodall <mwdll@icloud.com>",
+  "license": "MIT",
+  "dependencies": {
+    "date-fns": "^2.29.3"
+  }
+}
+
