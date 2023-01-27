@@ -1,6 +1,6 @@
 {
   "name": "holiday-fns",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "holiday date functions missing from date-fns package",
   "homepage": "https://github.com/llad/holiday-fns",
   "main": "index.js",
